@@ -1,0 +1,8 @@
+sample.interval=20000
+"readRDS" "index.search" "help" 
+"writeSection" "Rd2HTML" "<Anonymous>" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "try" 
+"%in%" "writeBlock" "writeContent" "writeSection" "Rd2HTML" "<Anonymous>" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "try" 
+"ls" "apropos" "normalCompletions" "<Anonymous>" "<Anonymous>" 
+"close.connection" "close" "readRDS" "index.search" "help" "<Anonymous>" 
+"writeLines" "writeLinesUTF8" "of0" "leavePara" "writeContent" "writeSection" "Rd2HTML" "<Anonymous>" "<Anonymous>" 
+"grep" "isBlankLineRd" "addParaBreaks" "writeLines" "writeLinesUTF8" "of1" "writeBlock" "writeContent" "writeSection" "Rd2HTML" "<Anonymous>" "<Anonymous>" 
